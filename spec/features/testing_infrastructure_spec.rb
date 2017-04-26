@@ -1,3 +1,4 @@
+=begin
 require 'spec_helper'
 require './app'
 
@@ -8,3 +9,4 @@ feature 'Testing infrastructure' do
   end
 
 end
+=end
