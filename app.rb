@@ -14,8 +14,6 @@ class Battle < Sinatra::Base
   end
 
   get '/play' do
-    p $Player_1.name
-    p $Player_2.name
     erb(:play)
   end
 
